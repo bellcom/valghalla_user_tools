@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Valghalla User Tools feature.
+ */
+
+include_once 'valghalla_user_tools.features.inc';
