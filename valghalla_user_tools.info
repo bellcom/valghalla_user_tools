@@ -6,6 +6,6 @@ project = valghalla_user_tools
 dependencies[] = views
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:2
+features[views_view][] = administration
 features[views_view][] = indholdsfiltre
 features_exclude[dependencies][ctools] = ctools
-project path = profiles/valhalla/modules/valghalla/features
